@@ -1,6 +1,6 @@
 FROM python:3.7
 
-RUN pip3 install jupyter pandas numpy matplotlib seaborn tensorflow keras scikit-learn 
+RUN pip3 install jupyter numpy matplotlib seaborn tensorflow keras scikit-learn 
 
 WORKDIR /usr/src/app
 COPY data data
