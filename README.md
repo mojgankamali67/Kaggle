@@ -9,6 +9,3 @@ Use gradient boosting to predict whether a customer of the bank will make a spec
 
 - [Pneumonia Detection using Chest X-Rays.](Xray/todo.ipynb) \
 Use convolutional neural networks on X-rays of a patient's chest to decide whether they have pneumonia.
-
-- [MNIST Digit Recognition.](MNIST-DigitRecognition/todo.ipynb) \
-The classic handwritten digit recognition challenge based on the MNIST dataset.
